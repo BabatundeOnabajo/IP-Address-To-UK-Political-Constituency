@@ -52,6 +52,16 @@ CREATE TABLE `ipcountry_ipv6` (
 
 --
 
+--
+-- Table structure for table `westminster_parliamentary_constituency_by_name_and_code`
+--
+
+CREATE TABLE `westminster_parliamentary_constituency_by_name_and_code` (
+  `westminster_parliamentary_constituency_by_name_and_code_id` smallint(5) UNSIGNED NOT NULL COMMENT 'This column merely serves the purpose of being the unique ID for MySQL purposes. It is SMALLINT because the number of constituencies is around 650 or so. ',
+  `westminster_parliamentary_constituency_code` varchar(255) DEFAULT NULL COMMENT 'This is the reference code that statistical agencies such as the ONS use to refer to the constituency.',
+  `westminster_parliamentary_constituency_name` varchar(255) DEFAULT NULL COMMENT 'This is the human-readable name of the constituency. '
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COMMENT='This table contains the various constituencies in the UK.';
+
 
 CREATE TABLE `list_of_postcodes_in_the_united_kingdom_together_with_reference` (
   `list_of_postcodes_id` bigint(20) UNSIGNED NOT NULL COMMENT 'This is the unique ID used for MySQL purposes.',
