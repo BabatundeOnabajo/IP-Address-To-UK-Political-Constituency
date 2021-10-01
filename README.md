@@ -39,3 +39,6 @@ The database of postcodes and other geographical information fall mostly under t
 IP2Location is a registered trademark of Hexasoft Development Sdn Bhd. All other trademarks are the property of their respective owners.
 
 # Sources
+1. - *Three quarters of people 'cannot name their local MP'*, BBC  - https://www.bbc.co.uk/news/uk-politics-22555659
+2. - *Winning the Fight Against a Website User’s Attention Span*, Kelly Howard - https://www.towermarketing.net/blog/winning-the-fight-against-a-website-users-attention-span/
+3. - *Recommender Systems: The Textbook*, Charu C. Aggarwal
