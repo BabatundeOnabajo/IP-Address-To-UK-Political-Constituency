@@ -35,6 +35,24 @@ CREATE TABLE `ipcountry_ipv4` (
 -- Table structure for table `list_of_postcodes_in_the_united_kingdom_together_with_reference`
 --
 
+-- Table structure for table `ipcountry_ipv6`
+--
+
+CREATE TABLE `ipcountry_ipv6` (
+  `ipFROM` decimal(39,0) NOT NULL,
+  `ipTO` decimal(39,0) NOT NULL,
+  `country_code` char(2) NOT NULL,
+  `country_name` varchar(256) NOT NULL,
+  `region_name` varchar(128) DEFAULT NULL,
+  `city_name` varchar(128) DEFAULT NULL,
+  `latitude` double DEFAULT NULL,
+  `longitude` double DEFAULT NULL,
+  `zip_code` varchar(30) DEFAULT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+--
+
+
 CREATE TABLE `list_of_postcodes_in_the_united_kingdom_together_with_reference` (
   `list_of_postcodes_id` bigint(20) UNSIGNED NOT NULL COMMENT 'This is the unique ID used for MySQL purposes.',
   `name_of_postcode` varchar(255) DEFAULT NULL COMMENT 'This is the name of the postcode.',
