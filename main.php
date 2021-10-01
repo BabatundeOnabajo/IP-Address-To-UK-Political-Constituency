@@ -54,7 +54,7 @@ $_SESSION['countryOfUser'] = ''; #In the table on the database, where a country 
 }elseif(mysqli_num_rows($result) == 1){ #In the table, if we do in fact find a value (and it should technically return one value), then we set $_SESSION['countryOfUser'] to the full name of the country. 
     $_SESSION['countryOfUser'] = $row['country_name'];
     $_SESSION['sessionIPAddress'] = $ipAddress;
-   
+$postcode = $row['zip_code']; #This stores the postcode into the variable $postcode. We will use this in the code later down below to access the constituency. 
 
 }
   
@@ -75,6 +75,7 @@ $_SESSION['countryOfUser'] = ''; #In the table on the database, where a country 
 }elseif(mysqli_num_rows($result) == 1){ #In the table, if we do in fact find a value (and it should technically return one value), then we set $_SESSION['countryOfUser'] to the full name of the country.
 $_SESSION['countryOfUser'] = $row['country_name'];
 $_SESSION['sessionIPAddress'] = $ipAddress;
+$postcode = $row['zip_code']; #This stores the postcode into the variable $postcode. We will use this in the code later down below to access the constituency.    
 }
   
 }    
