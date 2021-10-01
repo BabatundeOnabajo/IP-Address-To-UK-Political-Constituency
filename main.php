@@ -14,7 +14,7 @@ $password = ""; #USE YOUR OWN CREDENTIALS HERE.
 
 $conn = mysqli_connect($servername, $username, $password); #USE YOUR OWN CREDENTIALS HERE.
 
-
+mysqli_select_db($conn, "uk_political_constituencies_and_ip_addresses"); #This helps us obtain the database uk_political_constituencies_and_ip_addresses.
 
 # We create the session variable $_SESSION['ukPoliticalConstituency'], which stores the visitor's likely constituency, as an array because it is possible in rare instances that more than 
 # one constituency is returned. We will use this later to store the user's constituency information in an array.
