@@ -22,6 +22,11 @@ Always be sure to provide in your privacy policy what you intend to use a user's
 This script is licenced under the MIT licence. It should not be taken as an official item or service of Parliament, the House of Commons, the House of Lords or any government agency or department. This script should not be taken as an endorsement of any political organisation or individual. This script should not be taken to be representative of either my past, present or future employer.
 
 # Credits
+
+The database of postcodes and other geographical information fall mostly under the Open Government Licence and UK Government Licensing Framework as well as a small number of other organisations such as the Office for National Statistics (ONS). Further information may be sought at this link (operational as of 1st October 2021): https://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-august-2021/about
+
 "This site or product includes IP2Location LITE data available from http://www.ip2location.com."
 
 IP2Location is a registered trademark of Hexasoft Development Sdn Bhd. All other trademarks are the property of their respective owners.
+
+# Sources
