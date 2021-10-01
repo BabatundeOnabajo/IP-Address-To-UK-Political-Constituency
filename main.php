@@ -83,4 +83,21 @@ $postcode = $row['zip_code']; #This stores the postcode into the variable $postc
 
 } #This ends checking the IP address against $_SERVER['REMOTE_ADDR']
 
+#Here we use the information from $postcode to find the constituency the visitor is in.
+$queryToFindConstituencyOfVisitor = 'SELECT * FROM uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference INNER JOIN westminster_parliamentary_constituency_by_name_and_code ON statistical_reference_to_postcode = westminster_parliamentary_constituency_code WHERE name_of_postcode LIKE' . ' ' . '%' . $postcode . '%' .''; #We perform an inner join on two tables table. 
+
+mysqli_query($conn, $queryToFindConstituencyOfVisitor); #We execute the query here. 
+
+while($row = mysqli_fetch_array($queryToFindConstituencyOfVisitor, MYSQLI_ASSOC){ #Within this while(){} loop we obtain the constituency information of where the user is based.
+
+   $_SESSION['ukPoliticalConstituency'][] = $row['westminster_parliamentary_constituency_name']; #Here we add the constituency to the session variable  $_SESSION['ukPoliticalConstituency']. 
+
+  #For testing purposes you might want to test whether this works. In such instances, you can uncomment the following.
+  # foreach($_SESSION['ukPoliticalConstituency'] as $particularconstituency){
+# echo $particularconstituency }
+  
+  # The programmer who reads this may determine what to do with this session variable - e.g. insert it into a database (subject to privacy regulations), look up a particular MP, serve certain content, and so forth.
+}
+
+
 ?>
