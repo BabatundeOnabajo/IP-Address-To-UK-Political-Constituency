@@ -3221,3 +3221,2794 @@ INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_th
 ");
 INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1611,"AB1 6BB","S14000002
 ");
+
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1612,"AB1 6BD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1613,"AB1 6BE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1614,"AB1 6BF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1615,"AB1 6BG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1616,"AB1 6BH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1617,"AB1 6BJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1618,"AB1 6BL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1619,"AB1 6BN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1620,"AB1 6BP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1621,"AB1 6BQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1622,"AB1 6BR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1623,"AB1 6BS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1624,"AB1 6BT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1625,"AB1 6BU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1626,"AB1 6BW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1627,"AB1 6BX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1628,"AB1 6BY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1629,"AB1 6DA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1630,"AB1 6DB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1631,"AB1 6DD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1632,"AB1 6DE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1633,"AB1 6DF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1634,"AB1 6DG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1635,"AB1 6DH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1636,"AB1 6DJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1637,"AB1 6DL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1638,"AB1 6DN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1639,"AB1 6DP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1640,"AB1 6DQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1641,"AB1 6DR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1642,"AB1 6DS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1643,"AB1 6DT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1644,"AB1 6DU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1645,"AB1 6DW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1646,"AB1 6DX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1647,"AB1 6DY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1648,"AB1 6DZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1649,"AB1 6EA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1650,"AB1 6EB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1651,"AB1 6ED","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1652,"AB1 6EE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1653,"AB1 6EG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1654,"AB1 6EH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1655,"AB1 6EJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1656,"AB1 6EL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1657,"AB1 6EN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1658,"AB1 6EP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1659,"AB1 6EQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1660,"AB1 6ER","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1661,"AB1 6ES","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1662,"AB1 6ET","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1663,"AB1 6EU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1664,"AB1 6EW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1665,"AB1 6EX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1666,"AB1 6EY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1667,"AB1 6EZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1668,"AB1 6FA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1669,"AB1 6FB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1670,"AB1 6FL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1671,"AB1 6FN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1672,"AB1 6FP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1673,"AB1 6GA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1674,"AB1 6HA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1675,"AB1 6HB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1676,"AB1 6HD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1677,"AB1 6HE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1678,"AB1 6HF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1679,"AB1 6HG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1680,"AB1 6HH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1681,"AB1 6HJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1682,"AB1 6HL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1683,"AB1 6HN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1684,"AB1 6HP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1685,"AB1 6HQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1686,"AB1 6HR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1687,"AB1 6HS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1688,"AB1 6HT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1689,"AB1 6HU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1690,"AB1 6HW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1691,"AB1 6HX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1692,"AB1 6HY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1693,"AB1 6JA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1694,"AB1 6JB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1695,"AB1 6JD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1696,"AB1 6JE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1697,"AB1 6JF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1698,"AB1 6JG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1699,"AB1 6JH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1700,"AB1 6JJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1701,"AB1 6JL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1702,"AB1 6JN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1703,"AB1 6JP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1704,"AB1 6JQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1705,"AB1 6JR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1706,"AB1 6JS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1707,"AB1 6JT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1708,"AB1 6JU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1709,"AB1 6JW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1710,"AB1 6JX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1711,"AB1 6JY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1712,"AB1 6JZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1713,"AB1 6LA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1714,"AB1 6LB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1715,"AB1 6LD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1716,"AB1 6LE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1717,"AB1 6LF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1718,"AB1 6LG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1719,"AB1 6LH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1720,"AB1 6LJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1721,"AB1 6LL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1722,"AB1 6LN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1723,"AB1 6LP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1724,"AB1 6LQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1725,"AB1 6LR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1726,"AB1 6LS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1727,"AB1 6LT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1728,"AB1 6LU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1729,"AB1 6LW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1730,"AB1 6LX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1731,"AB1 6LY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1732,"AB1 6LZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1733,"AB1 6NA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1734,"AB1 6NB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1735,"AB1 6ND","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1736,"AB1 6NE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1737,"AB1 6NF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1738,"AB1 6NG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1739,"AB1 6NH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1740,"AB1 6NJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1741,"AB1 6NL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1742,"AB1 6NN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1743,"AB1 6NP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1744,"AB1 6NQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1745,"AB1 6NR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1746,"AB1 6NS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1747,"AB1 6NT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1748,"AB1 6NU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1749,"AB1 6NW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1750,"AB1 6NX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1751,"AB1 6NY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1752,"AB1 6NZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1753,"AB1 6PA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1754,"AB1 6PB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1755,"AB1 6PD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1756,"AB1 6PE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1757,"AB1 6PF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1758,"AB1 6PG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1759,"AB1 6PH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1760,"AB1 6PJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1761,"AB1 6PL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1762,"AB1 6PN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1763,"AB1 6PP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1764,"AB1 6PQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1765,"AB1 6PR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1766,"AB1 6PS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1767,"AB1 6PT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1768,"AB1 6PU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1769,"AB1 6PW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1770,"AB1 6PX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1771,"AB1 6PY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1772,"AB1 6PZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1773,"AB1 6QA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1774,"AB1 6QB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1775,"AB1 6QD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1776,"AB1 6QE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1777,"AB1 6QF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1778,"AB1 6QG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1779,"AB1 6QH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1780,"AB1 6QJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1781,"AB1 6QL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1782,"AB1 6QN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1783,"AB1 6QP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1784,"AB1 6QQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1785,"AB1 6QR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1786,"AB1 6QS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1787,"AB1 6QT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1788,"AB1 6QU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1789,"AB1 6QW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1790,"AB1 6QX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1791,"AB1 6QY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1792,"AB1 6QZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1793,"AB1 6RA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1794,"AB1 6RB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1795,"AB1 6RD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1796,"AB1 6RE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1797,"AB1 6RF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1798,"AB1 6RG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1799,"AB1 6RH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1800,"AB1 6RJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1801,"AB1 6RL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1802,"AB1 6RN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1803,"AB1 6RP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1804,"AB1 6RQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1805,"AB1 6RR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1806,"AB1 6RS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1807,"AB1 6RT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1808,"AB1 6RU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1809,"AB1 6RW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1810,"AB1 6RX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1811,"AB1 6RY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1812,"AB1 6RZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1813,"AB1 6SA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1814,"AB1 6SB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1815,"AB1 6SD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1816,"AB1 6SE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1817,"AB1 6SF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1818,"AB1 6SG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1819,"AB1 6SH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1820,"AB1 6SJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1821,"AB1 6SL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1822,"AB1 6SN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1823,"AB1 6SP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1824,"AB1 6SQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1825,"AB1 6SR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1826,"AB1 6SS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1827,"AB1 6ST","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1828,"AB1 6SU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1829,"AB1 6SW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1830,"AB1 6SX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1831,"AB1 6SY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1832,"AB1 6SZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1833,"AB1 6TA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1834,"AB1 6TB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1835,"AB1 6TD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1836,"AB1 6TE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1837,"AB1 6TF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1838,"AB1 6TG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1839,"AB1 6TH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1840,"AB1 6TJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1841,"AB1 6TL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1842,"AB1 6TN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1843,"AB1 6TP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1844,"AB1 6TQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1845,"AB1 6TR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1846,"AB1 6TS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1847,"AB1 6TT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1848,"AB1 6TU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1849,"AB1 6TW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1850,"AB1 6TX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1851,"AB1 6TY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1852,"AB1 6TZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1853,"AB1 6UA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1854,"AB1 6UB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1855,"AB1 6UD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1856,"AB1 6UE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1857,"AB1 6UF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1858,"AB1 6UG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1859,"AB1 6UH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1860,"AB1 6UJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1861,"AB1 6UL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1862,"AB1 6UN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1863,"AB1 6UP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1864,"AB1 6UQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1865,"AB1 6UR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1866,"AB1 6US","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1867,"AB1 6UT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1868,"AB1 6UU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1869,"AB1 6UW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1870,"AB1 6UX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1871,"AB1 6UY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1872,"AB1 6UZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1873,"AB1 6WA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1874,"AB1 6WB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1875,"AB1 6WD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1876,"AB1 6WE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1877,"AB1 6XA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1878,"AB1 6XB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1879,"AB1 6XD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1880,"AB1 6XE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1881,"AB1 6XF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1882,"AB1 6XG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1883,"AB1 6XH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1884,"AB1 6XJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1885,"AB1 6XL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1886,"AB1 6XN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1887,"AB1 6XP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1888,"AB1 6XQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1889,"AB1 6XR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1890,"AB1 6XS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1891,"AB1 6XT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1892,"AB1 6XU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1893,"AB1 6XW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1894,"AB1 6XX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1895,"AB1 6XZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1896,"AB1 6YA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1897,"AB1 6YB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1898,"AB1 6YD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1899,"AB1 6YE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1900,"AB1 6YF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1901,"AB1 6YG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1902,"AB1 6YH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1903,"AB1 6YJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1904,"AB1 6YL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1905,"AB1 6YN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1906,"AB1 6YP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1907,"AB1 6YQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1908,"AB1 6YS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1909,"AB1 6YT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1910,"AB1 6YU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1911,"AB1 6YW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1912,"AB1 6YX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1913,"AB1 6YY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1914,"AB1 6YZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1915,"AB1 6ZA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1916,"AB1 6ZB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1917,"AB1 6ZD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1918,"AB1 6ZE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1919,"AB1 6ZF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1920,"AB1 6ZG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1921,"AB1 7AA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1922,"AB1 7AB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1923,"AB1 7AD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1924,"AB1 7AE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1925,"AB1 7AF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1926,"AB1 7AG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1927,"AB1 7AH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1928,"AB1 7AJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1929,"AB1 7AL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1930,"AB1 7AN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1931,"AB1 7AP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1932,"AB1 7AQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1933,"AB1 7AR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1934,"AB1 7AS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1935,"AB1 7AT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1936,"AB1 7AU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1937,"AB1 7AW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1938,"AB1 7AX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1939,"AB1 7AY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1940,"AB1 7AZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1941,"AB1 7BA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1942,"AB1 7BB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1943,"AB1 7BD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1944,"AB1 7BE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1945,"AB1 7BF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1946,"AB1 7BG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1947,"AB1 7BH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1948,"AB1 7BJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1949,"AB1 7BL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1950,"AB1 7BN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1951,"AB1 7BP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1952,"AB1 7BQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1953,"AB1 7BR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1954,"AB1 7BS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1955,"AB1 7BT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1956,"AB1 7BU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1957,"AB1 7BW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1958,"AB1 7BX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1959,"AB1 7BY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1960,"AB1 7BZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1961,"AB1 7DA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1962,"AB1 7DB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1963,"AB1 7DD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1964,"AB1 7DE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1965,"AB1 7DF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1966,"AB1 7DG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1967,"AB1 7DH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1968,"AB1 7DJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1969,"AB1 7DL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1970,"AB1 7DN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1971,"AB1 7DP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1972,"AB1 7DQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1973,"AB1 7DR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1974,"AB1 7DS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1975,"AB1 7DT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1976,"AB1 7DU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1977,"AB1 7DW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1978,"AB1 7DX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1979,"AB1 7DY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1980,"AB1 7DZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1981,"AB1 7EA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1982,"AB1 7EB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1983,"AB1 7ED","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1984,"AB1 7EE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1985,"AB1 7EF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1986,"AB1 7EG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1987,"AB1 7EH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1988,"AB1 7EJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1989,"AB1 7EL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1990,"AB1 7EN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1991,"AB1 7EP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1992,"AB1 7EQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1993,"AB1 7ER","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1994,"AB1 7ES","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1995,"AB1 7ET","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1996,"AB1 7EU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1997,"AB1 7EW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1998,"AB1 7EX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (1999,"AB1 7EY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2000,"AB1 7EZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2001,"AB1 7FA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2002,"AB1 7FG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2003,"AB1 7FH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2004,"AB1 7FJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2005,"AB1 7FS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2006,"AB1 7FT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2007,"AB1 7GA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2008,"AB1 7GB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2009,"AB1 7GD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2010,"AB1 7GH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2011,"AB1 7GZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2012,"AB1 7HA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2013,"AB1 7HB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2014,"AB1 7HD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2015,"AB1 7HE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2016,"AB1 7HF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2017,"AB1 7HG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2018,"AB1 7HH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2019,"AB1 7HJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2020,"AB1 7HL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2021,"AB1 7HN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2022,"AB1 7HP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2023,"AB1 7HQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2024,"AB1 7HR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2025,"AB1 7HS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2026,"AB1 7HT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2027,"AB1 7HU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2028,"AB1 7HW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2029,"AB1 7HX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2030,"AB1 7HY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2031,"AB1 7HZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2032,"AB1 7JA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2033,"AB1 7JB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2034,"AB1 7JD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2035,"AB1 7JE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2036,"AB1 7JF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2037,"AB1 7JG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2038,"AB1 7JH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2039,"AB1 7JJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2040,"AB1 7JL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2041,"AB1 7JN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2042,"AB1 7JP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2043,"AB1 7JQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2044,"AB1 7JR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2045,"AB1 7JS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2046,"AB1 7JT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2047,"AB1 7JU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2048,"AB1 7JW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2049,"AB1 7JX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2050,"AB1 7JY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2051,"AB1 7JZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2052,"AB1 7LA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2053,"AB1 7LB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2054,"AB1 7LD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2055,"AB1 7LE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2056,"AB1 7LF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2057,"AB1 7LG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2058,"AB1 7LH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2059,"AB1 7LJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2060,"AB1 7LL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2061,"AB1 7LN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2062,"AB1 7LP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2063,"AB1 7LQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2064,"AB1 7LR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2065,"AB1 7LS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2066,"AB1 7LT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2067,"AB1 7LU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2068,"AB1 7LW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2069,"AB1 7LX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2070,"AB1 7LY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2071,"AB1 7LZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2072,"AB1 7NA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2073,"AB1 7NB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2074,"AB1 7ND","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2075,"AB1 7NE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2076,"AB1 7NF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2077,"AB1 7NG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2078,"AB1 7NH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2079,"AB1 7NJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2080,"AB1 7NL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2081,"AB1 7NN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2082,"AB1 7NP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2083,"AB1 7NQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2084,"AB1 7NR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2085,"AB1 7NS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2086,"AB1 7NT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2087,"AB1 7NU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2088,"AB1 7NW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2089,"AB1 7NX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2090,"AB1 7NY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2091,"AB1 7NZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2092,"AB1 7PA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2093,"AB1 7PB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2094,"AB1 7PD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2095,"AB1 7PE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2096,"AB1 7PF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2097,"AB1 7PG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2098,"AB1 7PH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2099,"AB1 7PJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2100,"AB1 7PL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2101,"AB1 7PN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2102,"AB1 7PP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2103,"AB1 7PQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2104,"AB1 7PR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2105,"AB1 7PS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2106,"AB1 7PT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2107,"AB1 7PU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2108,"AB1 7PW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2109,"AB1 7PX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2110,"AB1 7PY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2111,"AB1 7PZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2112,"AB1 7QA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2113,"AB1 7QB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2114,"AB1 7QD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2115,"AB1 7QE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2116,"AB1 7QF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2117,"AB1 7QG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2118,"AB1 7QH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2119,"AB1 7QJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2120,"AB1 7QL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2121,"AB1 7QN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2122,"AB1 7QP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2123,"AB1 7QQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2124,"AB1 7QR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2125,"AB1 7QS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2126,"AB1 7QT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2127,"AB1 7QU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2128,"AB1 7QW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2129,"AB1 7QX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2130,"AB1 7QY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2131,"AB1 7QZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2132,"AB1 7RA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2133,"AB1 7RB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2134,"AB1 7RD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2135,"AB1 7RE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2136,"AB1 7RF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2137,"AB1 7RG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2138,"AB1 7RH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2139,"AB1 7RJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2140,"AB1 7RL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2141,"AB1 7RN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2142,"AB1 7RP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2143,"AB1 7RQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2144,"AB1 7RR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2145,"AB1 7RS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2146,"AB1 7RT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2147,"AB1 7RU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2148,"AB1 7RW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2149,"AB1 7RX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2150,"AB1 7RY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2151,"AB1 7RZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2152,"AB1 7SA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2153,"AB1 7SB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2154,"AB1 7SD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2155,"AB1 7SE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2156,"AB1 7SF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2157,"AB1 7SG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2158,"AB1 7SH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2159,"AB1 7SJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2160,"AB1 7SL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2161,"AB1 7SN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2162,"AB1 7SP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2163,"AB1 7SR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2164,"AB1 7SS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2165,"AB1 7ST","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2166,"AB1 7SU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2167,"AB1 7SX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2168,"AB1 7SY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2169,"AB1 7TA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2170,"AB1 7TB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2171,"AB1 7TD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2172,"AB1 7TE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2173,"AB1 7TH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2174,"AB1 7TJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2175,"AB1 7TL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2176,"AB1 7TN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2177,"AB1 7TP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2178,"AB1 7TQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2179,"AB1 7TR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2180,"AB1 7TS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2181,"AB1 7TT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2182,"AB1 7TU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2183,"AB1 7TW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2184,"AB1 7TX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2185,"AB1 7TY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2186,"AB1 7TZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2187,"AB1 7UA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2188,"AB1 7UB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2189,"AB1 7UD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2190,"AB1 7UE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2191,"AB1 7UF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2192,"AB1 7UG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2193,"AB1 7UH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2194,"AB1 7UJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2195,"AB1 7UL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2196,"AB1 7UN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2197,"AB1 7UP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2198,"AB1 7UQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2199,"AB1 7UR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2200,"AB1 7US","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2201,"AB1 7UT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2202,"AB1 7UU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2203,"AB1 7UW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2204,"AB1 7UX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2205,"AB1 7UY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2206,"AB1 7UZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2207,"AB1 7XA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2208,"AB1 7XB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2209,"AB1 7XD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2210,"AB1 7XE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2211,"AB1 7XF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2212,"AB1 7XG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2213,"AB1 7XH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2214,"AB1 7XJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2215,"AB1 7XL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2216,"AB1 7XN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2217,"AB1 7XP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2218,"AB1 7XQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2219,"AB1 7XR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2220,"AB1 7XS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2221,"AB1 7XT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2222,"AB1 7XU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2223,"AB1 7XW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2224,"AB1 7XX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2225,"AB1 7XY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2226,"AB1 7XZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2227,"AB1 7YA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2228,"AB1 7YB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2229,"AB1 7YD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2230,"AB1 7YE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2231,"AB1 7YF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2232,"AB1 7YG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2233,"AB1 7YH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2234,"AB1 7YJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2235,"AB1 7YL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2236,"AB1 7YN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2237,"AB1 7YP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2238,"AB1 7YQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2239,"AB1 7YR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2240,"AB1 7YS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2241,"AB1 7YT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2242,"AB1 7YU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2243,"AB1 7YW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2244,"AB1 7YX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2245,"AB1 7YY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2246,"AB1 7YZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2247,"AB1 8AA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2248,"AB1 8AB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2249,"AB1 8AD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2250,"AB1 8AE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2251,"AB1 8AF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2252,"AB1 8AG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2253,"AB1 8AH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2254,"AB1 8AJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2255,"AB1 8AL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2256,"AB1 8AN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2257,"AB1 8AP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2258,"AB1 8AQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2259,"AB1 8AR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2260,"AB1 8AS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2261,"AB1 8AT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2262,"AB1 8AX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2263,"AB1 8AY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2264,"AB1 8BA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2265,"AB1 8BB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2266,"AB1 8BD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2267,"AB1 8BE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2268,"AB1 8BJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2269,"AB1 8BL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2270,"AB1 8BN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2271,"AB1 8BP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2272,"AB1 8BQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2273,"AB1 8BR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2274,"AB1 8BS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2275,"AB1 8BT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2276,"AB1 8BW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2277,"AB1 8BX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2278,"AB1 8DA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2279,"AB1 8DB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2280,"AB1 8DD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2281,"AB1 8DE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2282,"AB1 8DF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2283,"AB1 8DJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2284,"AB1 8DL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2285,"AB1 8DN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2286,"AB1 8DP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2287,"AB1 8DQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2288,"AB1 8DR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2289,"AB1 8DS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2290,"AB1 8DT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2291,"AB1 8DX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2292,"AB1 8EA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2293,"AB1 8EB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2294,"AB1 8ED","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2295,"AB1 8EJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2296,"AB1 8EL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2297,"AB1 8EN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2298,"AB1 8EP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2299,"AB1 8EQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2300,"AB1 8ER","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2301,"AB1 8ES","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2302,"AB1 8ET","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2303,"AB1 8EX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2304,"AB1 8FA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2305,"AB1 8FB","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2306,"AB1 8FD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2307,"AB1 8FE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2308,"AB1 8FL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2309,"AB1 8GA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2310,"AB1 8GB","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2311,"AB1 8GD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2312,"AB1 8GE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2313,"AB1 8GF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2314,"AB1 8HA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2315,"AB1 8HB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2316,"AB1 8HD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2317,"AB1 8HJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2318,"AB1 8HL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2319,"AB1 8HN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2320,"AB1 8HP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2321,"AB1 8HQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2322,"AB1 8HR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2323,"AB1 8HS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2324,"AB1 8HT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2325,"AB1 8HX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2326,"AB1 8JA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2327,"AB1 8JB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2328,"AB1 8JD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2329,"AB1 8JE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2330,"AB1 8JJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2331,"AB1 8JL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2332,"AB1 8JN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2333,"AB1 8JP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2334,"AB1 8JQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2335,"AB1 8JR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2336,"AB1 8JS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2337,"AB1 8JT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2338,"AB1 8JX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2339,"AB1 8LA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2340,"AB1 8LB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2341,"AB1 8LD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2342,"AB1 8LJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2343,"AB1 8LL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2344,"AB1 8LN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2345,"AB1 8LP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2346,"AB1 8LQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2347,"AB1 8LR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2348,"AB1 8LS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2349,"AB1 8LT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2350,"AB1 8LX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2351,"AB1 8NA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2352,"AB1 8NB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2353,"AB1 8ND","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2354,"AB1 8NJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2355,"AB1 8NL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2356,"AB1 8NN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2357,"AB1 8NP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2358,"AB1 8NQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2359,"AB1 8NR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2360,"AB1 8NS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2361,"AB1 8NT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2362,"AB1 8NX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2363,"AB1 8PA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2364,"AB1 8PB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2365,"AB1 8PD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2366,"AB1 8PE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2367,"AB1 8PH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2368,"AB1 8PJ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2369,"AB1 8PL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2370,"AB1 8PN","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2371,"AB1 8PP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2372,"AB1 8PQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2373,"AB1 8PR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2374,"AB1 8PS","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2375,"AB1 8PT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2376,"AB1 8PX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2377,"AB1 8QA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2378,"AB1 8QB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2379,"AB1 8QD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2380,"AB1 8QJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2381,"AB1 8QL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2382,"AB1 8QN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2383,"AB1 8QP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2384,"AB1 8QQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2385,"AB1 8QR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2386,"AB1 8QS","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2387,"AB1 8QT","S14000058
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2388,"AB1 8QX","S14000058
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2389,"AB1 8RA","S14000058
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2390,"AB1 8RB","S14000058
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2391,"AB1 8RD","S14000058
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2392,"AB1 8RJ","S14000058
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2393,"AB1 8RL","S14000058
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2394,"AB1 8RN","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2395,"AB1 8RP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2396,"AB1 8RQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2397,"AB1 8RR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2398,"AB1 8RS","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2399,"AB1 8RT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2400,"AB1 8RX","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2401,"AB1 8SA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2402,"AB1 8SB","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2403,"AB1 8SD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2404,"AB1 8SJ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2405,"AB1 8SL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2406,"AB1 8SN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2407,"AB1 8SP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2408,"AB1 8SQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2409,"AB1 8SR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2410,"AB1 8SS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2411,"AB1 8ST","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2412,"AB1 8TA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2413,"AB1 8TD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2414,"AB1 8TE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2415,"AB1 8TF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2416,"AB1 8TG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2417,"AB1 8TH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2418,"AB1 8TJ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2419,"AB1 8TL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2420,"AB1 8TN","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2421,"AB1 8TP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2422,"AB1 8TQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2423,"AB1 8TR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2424,"AB1 8TT","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2425,"AB1 8UB","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2426,"AB1 8UE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2427,"AB1 8UF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2428,"AB1 8UG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2429,"AB1 8UH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2430,"AB1 8UJ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2431,"AB1 8UL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2432,"AB1 8UN","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2433,"AB1 8UP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2434,"AB1 8UQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2435,"AB1 8XJ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2436,"AB1 8XL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2437,"AB1 8XN","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2438,"AB1 8XQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2439,"AB1 8YA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2440,"AB1 9AA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2441,"AB1 9AB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2442,"AB1 9AD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2443,"AB1 9AE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2444,"AB1 9AF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2445,"AB1 9AH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2446,"AB1 9AJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2447,"AB1 9AL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2448,"AB1 9AN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2449,"AB1 9AP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2450,"AB1 9AQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2451,"AB1 9AR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2452,"AB1 9AS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2453,"AB1 9AT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2454,"AB1 9AW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2455,"AB1 9AX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2456,"AB1 9AY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2457,"AB1 9AZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2458,"AB1 9BB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2459,"AB1 9BD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2460,"AB1 9BE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2461,"AB1 9BG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2462,"AB1 9BH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2463,"AB1 9BJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2464,"AB1 9BL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2465,"AB1 9BN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2466,"AB1 9BP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2467,"AB1 9BQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2468,"AB1 9BR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2469,"AB1 9BS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2470,"AB1 9BT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2471,"AB1 9BU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2472,"AB1 9BW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2473,"AB1 9BX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2474,"AB1 9BY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2475,"AB1 9BZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2476,"AB1 9DA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2477,"AB1 9DB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2478,"AB1 9DD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2479,"AB1 9DJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2480,"AB1 9DL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2481,"AB1 9DN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2482,"AB1 9DP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2483,"AB1 9DQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2484,"AB1 9DR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2485,"AB1 9DS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2486,"AB1 9DT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2487,"AB1 9DX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2488,"AB1 9DY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2489,"AB1 9EA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2490,"AB1 9EB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2491,"AB1 9ED","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2492,"AB1 9EJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2493,"AB1 9EL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2494,"AB1 9EN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2495,"AB1 9EP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2496,"AB1 9EQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2497,"AB1 9ER","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2498,"AB1 9ES","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2499,"AB1 9ET","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2500,"AB1 9EX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2501,"AB1 9FA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2502,"AB1 9FB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2503,"AB1 9FD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2504,"AB1 9FE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2505,"AB1 9FG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2506,"AB1 9FH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2507,"AB1 9FJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2508,"AB1 9FL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2509,"AB1 9FN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2510,"AB1 9HA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2511,"AB1 9HB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2512,"AB1 9HD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2513,"AB1 9HE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2514,"AB1 9HJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2515,"AB1 9HL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2516,"AB1 9HN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2517,"AB1 9HP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2518,"AB1 9HQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2519,"AB1 9HR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2520,"AB1 9HS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2521,"AB1 9HT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2522,"AB1 9HX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2523,"AB1 9JA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2524,"AB1 9JB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2525,"AB1 9JD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2526,"AB1 9JJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2527,"AB1 9JL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2528,"AB1 9JN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2529,"AB1 9JP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2530,"AB1 9JQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2531,"AB1 9JR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2532,"AB1 9JS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2533,"AB1 9JT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2534,"AB1 9JX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2535,"AB1 9LA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2536,"AB1 9LB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2537,"AB1 9LD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2538,"AB1 9LE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2539,"AB1 9LF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2540,"AB1 9LG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2541,"AB1 9LH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2542,"AB1 9LJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2543,"AB1 9LL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2544,"AB1 9LN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2545,"AB1 9LP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2546,"AB1 9LQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2547,"AB1 9LR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2548,"AB1 9LS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2549,"AB1 9LT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2550,"AB1 9LU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2551,"AB1 9LW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2552,"AB1 9LX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2553,"AB1 9NA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2554,"AB1 9NB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2555,"AB1 9ND","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2556,"AB1 9NE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2557,"AB1 9NF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2558,"AB1 9NG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2559,"AB1 9NH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2560,"AB1 9NJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2561,"AB1 9NL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2562,"AB1 9NN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2563,"AB1 9NP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2564,"AB1 9NQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2565,"AB1 9NR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2566,"AB1 9NS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2567,"AB1 9NT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2568,"AB1 9NU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2569,"AB1 9NW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2570,"AB1 9NX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2571,"AB1 9NY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2572,"AB1 9NZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2573,"AB1 9PA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2574,"AB1 9PB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2575,"AB1 9PD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2576,"AB1 9PE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2577,"AB1 9PF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2578,"AB1 9PJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2579,"AB1 9PL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2580,"AB1 9PN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2581,"AB1 9PP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2582,"AB1 9PQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2583,"AB1 9PR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2584,"AB1 9PS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2585,"AB1 9PT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2586,"AB1 9PX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2587,"AB1 9PZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2588,"AB1 9QA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2589,"AB1 9QB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2590,"AB1 9QD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2591,"AB1 9QE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2592,"AB1 9QF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2593,"AB1 9QJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2594,"AB1 9QL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2595,"AB1 9QN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2596,"AB1 9QP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2597,"AB1 9QQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2598,"AB1 9QR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2599,"AB1 9QS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2600,"AB1 9QT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2601,"AB1 9QX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2602,"AB1 9RA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2603,"AB1 9RB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2604,"AB1 9RD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2605,"AB1 9RE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2606,"AB1 9RF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2607,"AB1 9RG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2608,"AB1 9RH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2609,"AB1 9RJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2610,"AB1 9RL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2611,"AB1 9RN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2612,"AB1 9RP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2613,"AB1 9RQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2614,"AB1 9RR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2615,"AB1 9RS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2616,"AB1 9RT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2617,"AB1 9RU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2618,"AB1 9RW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2619,"AB1 9RZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2620,"AB1 9SA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2621,"AB1 9SB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2622,"AB1 9SD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2623,"AB1 9SE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2624,"AB1 9SF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2625,"AB1 9SJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2626,"AB1 9SL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2627,"AB1 9SN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2628,"AB1 9SP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2629,"AB1 9SQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2630,"AB1 9SR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2631,"AB1 9SS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2632,"AB1 9ST","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2633,"AB1 9SU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2634,"AB1 9SW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2635,"AB1 9SX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2636,"AB1 9SY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2637,"AB1 9SZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2638,"AB1 9TA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2639,"AB1 9TB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2640,"AB1 9TD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2641,"AB1 9TE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2642,"AB1 9TF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2643,"AB1 9TG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2644,"AB1 9TH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2645,"AB1 9TJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2646,"AB1 9TL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2647,"AB1 9TN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2648,"AB1 9TP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2649,"AB1 9TQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2650,"AB1 9TR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2651,"AB1 9TW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2652,"AB1 9TY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2653,"AB1 9YA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2654,"AB1 9YB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2655,"AB1 9YD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2656,"AB101AA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2657,"AB101AB","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2658,"AB101AD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2659,"AB101AF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2660,"AB101AG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2661,"AB101AH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2662,"AB101AJ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2663,"AB101AL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2664,"AB101AN","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2665,"AB101AP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2666,"AB101AQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2667,"AB101AR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2668,"AB101AS","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2669,"AB101AU","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2670,"AB101AW","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2671,"AB101AX","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2672,"AB101AY","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2673,"AB101AZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2674,"AB101BA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2675,"AB101BB","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2676,"AB101BD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2677,"AB101BE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2678,"AB101BF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2679,"AB101BG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2680,"AB101BH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2681,"AB101BJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2682,"AB101BL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2683,"AB101BN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2684,"AB101BP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2685,"AB101BQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2686,"AB101BR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2687,"AB101BS","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2688,"AB101BT","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2689,"AB101BU","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2690,"AB101BW","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2691,"AB101BX","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2692,"AB101BY","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2693,"AB101BZ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2694,"AB101DA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2695,"AB101DB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2696,"AB101DD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2697,"AB101DE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2698,"AB101DG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2699,"AB101DH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2700,"AB101DQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2701,"AB101DU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2702,"AB101DW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2703,"AB101DX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2704,"AB101DY","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2705,"AB101EF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2706,"AB101EH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2707,"AB101EL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2708,"AB101EP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2709,"AB101EX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2710,"AB101EY","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2711,"AB101EZ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2712,"AB101FE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2713,"AB101FF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2714,"AB101FG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2715,"AB101FH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2716,"AB101FL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2717,"AB101FN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2718,"AB101FQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2719,"AB101FR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2720,"AB101FS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2721,"AB101FT","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2722,"AB101FW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2723,"AB101FX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2724,"AB101FY","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2725,"AB101GA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2726,"AB101GB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2727,"AB101GD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2728,"AB101GE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2729,"AB101GF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2730,"AB101GJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2731,"AB101GL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2732,"AB101GN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2733,"AB101GQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2734,"AB101GR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2735,"AB101GS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2736,"AB101GT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2737,"AB101GU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2738,"AB101GW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2739,"AB101GY","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2740,"AB101GZ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2741,"AB101HA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2742,"AB101HB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2743,"AB101HD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2744,"AB101HE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2745,"AB101HF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2746,"AB101HG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2747,"AB101HH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2748,"AB101HJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2749,"AB101HL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2750,"AB101HN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2751,"AB101HP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2752,"AB101HQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2753,"AB101HS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2754,"AB101HT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2755,"AB101HW","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2756,"AB101JA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2757,"AB101JB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2758,"AB101JD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2759,"AB101JE","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2760,"AB101JF","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2761,"AB101JG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2762,"AB101JH","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2763,"AB101JJ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2764,"AB101JL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2765,"AB101JN","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2766,"AB101JP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2767,"AB101JQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2768,"AB101JR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2769,"AB101JS","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2770,"AB101JT","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2771,"AB101JU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2772,"AB101JW","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2773,"AB101JX","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2774,"AB101JY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2775,"AB101JZ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2776,"AB101LA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2777,"AB101LB","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2778,"AB101LE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2779,"AB101LG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2780,"AB101LH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2781,"AB101LL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2782,"AB101LP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2783,"AB101LQ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2784,"AB101LU","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2785,"AB101LW","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2786,"AB101LX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2787,"AB101NG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2788,"AB101NJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2789,"AB101NL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2790,"AB101NN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2791,"AB101NP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2792,"AB101NS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2793,"AB101NT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2794,"AB101NU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2795,"AB101NW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2796,"AB101NX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2797,"AB101NY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2798,"AB101NZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2799,"AB101PA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2800,"AB101PB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2801,"AB101PD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2802,"AB101PE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2803,"AB101PF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2804,"AB101PG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2805,"AB101PH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2806,"AB101PJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2807,"AB101PL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2808,"AB101PN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2809,"AB101PP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2810,"AB101PQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2811,"AB101PR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2812,"AB101PS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2813,"AB101PT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2814,"AB101PU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2815,"AB101PW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2816,"AB101PX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2817,"AB101PY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2818,"AB101PZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2819,"AB101QA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2820,"AB101QB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2821,"AB101QD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2822,"AB101QE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2823,"AB101QG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2824,"AB101QH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2825,"AB101QJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2826,"AB101QL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2827,"AB101QN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2828,"AB101QP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2829,"AB101QQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2830,"AB101QR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2831,"AB101QS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2832,"AB101QT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2833,"AB101QU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2834,"AB101QW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2835,"AB101QX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2836,"AB101QY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2837,"AB101QZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2838,"AB101RA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2839,"AB101RB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2840,"AB101RD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2841,"AB101RE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2842,"AB101RF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2843,"AB101RG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2844,"AB101RH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2845,"AB101RJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2846,"AB101RL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2847,"AB101RN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2848,"AB101RP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2849,"AB101RQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2850,"AB101RR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2851,"AB101RS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2852,"AB101RT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2853,"AB101RU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2854,"AB101RW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2855,"AB101RX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2856,"AB101RY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2857,"AB101RZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2858,"AB101SA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2859,"AB101SB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2860,"AB101SD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2861,"AB101SE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2862,"AB101SF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2863,"AB101SG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2864,"AB101SH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2865,"AB101SJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2866,"AB101SL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2867,"AB101SN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2868,"AB101SP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2869,"AB101SQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2870,"AB101SR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2871,"AB101SS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2872,"AB101ST","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2873,"AB101SU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2874,"AB101SW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2875,"AB101SX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2876,"AB101SY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2877,"AB101SZ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2878,"AB101TA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2879,"AB101TB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2880,"AB101TD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2881,"AB101TE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2882,"AB101TF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2883,"AB101TG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2884,"AB101TH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2885,"AB101TJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2886,"AB101TL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2887,"AB101TN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2888,"AB101TP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2889,"AB101TQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2890,"AB101TR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2891,"AB101TS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2892,"AB101TT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2893,"AB101TU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2894,"AB101TW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2895,"AB101TX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2896,"AB101TY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2897,"AB101TZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2898,"AB101UA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2899,"AB101UB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2900,"AB101UD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2901,"AB101UE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2902,"AB101UF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2903,"AB101UG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2904,"AB101UH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2905,"AB101UJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2906,"AB101UL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2907,"AB101UN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2908,"AB101UP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2909,"AB101UQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2910,"AB101UR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2911,"AB101US","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2912,"AB101UT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2913,"AB101UU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2914,"AB101UW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2915,"AB101UX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2916,"AB101UY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2917,"AB101UZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2918,"AB101WA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2919,"AB101WB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2920,"AB101WD","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2921,"AB101WE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2922,"AB101WF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2923,"AB101WG","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2924,"AB101WH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2925,"AB101WJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2926,"AB101WL","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2927,"AB101WN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2928,"AB101WP","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2929,"AB101WQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2930,"AB101WR","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2931,"AB101WS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2932,"AB101WT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2933,"AB101WU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2934,"AB101WW","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2935,"AB101WX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2936,"AB101XA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2937,"AB101XB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2938,"AB101XD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2939,"AB101XE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2940,"AB101XF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2941,"AB101XG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2942,"AB101XH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2943,"AB101XJ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2944,"AB101XL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2945,"AB101XN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2946,"AB101XP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2947,"AB101XR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2948,"AB101XT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2949,"AB101XU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2950,"AB101XW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2951,"AB101XY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2952,"AB101XZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2953,"AB101YA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2954,"AB101YB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2955,"AB101YD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2956,"AB101YE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2957,"AB101YF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2958,"AB101YG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2959,"AB101YH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2960,"AB101YJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2961,"AB101YL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2962,"AB101YN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2963,"AB101YP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2964,"AB101YQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2965,"AB101YR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2966,"AB101YS","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2967,"AB101YT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2968,"AB101YU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2969,"AB101YW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2970,"AB101YX","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2971,"AB101YY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2972,"AB101YZ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2973,"AB101ZA","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2974,"AB101ZB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2975,"AB101ZE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2976,"AB101ZF","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2977,"AB101ZG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2978,"AB101ZH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2979,"AB101ZL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2980,"AB101ZN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2981,"AB101ZP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2982,"AB101ZR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2983,"AB101ZS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2984,"AB101ZT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2985,"AB101ZU","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2986,"AB101ZW","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2987,"AB101ZX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2988,"AB101ZY","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2989,"AB101ZZ","S14000001
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2990,"AB106AA","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2991,"AB106AB","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2992,"AB106AD","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2993,"AB106AE","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2994,"AB106AG","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2995,"AB106AH","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2996,"AB106AJ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2997,"AB106AL","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2998,"AB106AN","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (2999,"AB106AP","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (3000,"AB106AQ","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (3001,"AB106AR","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (3002,"AB106AS","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (3003,"AB106AT","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (3004,"AB106AU","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (3005,"AB106AX","S14000002
+");
+INSERT INTO uk_political_constituencies_and_ip_addresses.list_of_postcodes_in_the_united_kingdom_together_with_reference(list_of_postcodes_id, name_of_postcode, statistical_reference_to_postcode) VALUES (3006,"AB106AY","S14000002
+");
