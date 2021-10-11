@@ -98,7 +98,7 @@ $_SESSION['ukPoliticalConstituency'][] = $row['westminster_parliamentary_constit
 #For testing purposes you might want to test whether this works. In such instances, you can uncomment the following foreach(){} loop, which will display the constituency of the user.
 
 # foreach($_SESSION['ukPoliticalConstituency'] as $particularconstituency){
-# echo $particularconstituency }
+# echo $particularconstituency; }
   
   # The programmer who reads this may determine what to do with this session variable - e.g. insert it into a database (subject to privacy regulations), look up a particular MP, serve certain content, and so forth.
 }
